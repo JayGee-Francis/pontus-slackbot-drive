@@ -7,8 +7,8 @@
         <title>Pontus Slackbot FAQ</title>
     </head>
     <body bgcolor="cyan" align="left">
-        <font face="cambria", size="4.5">
-            <a href="register.php">Back to the Signup page</a>
+        <font face="candara", size="3.5">
+            <a href="index.php">Back Home</a>
             <br/>
            <div class="grid">
                <div>
