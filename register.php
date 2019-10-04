@@ -60,8 +60,6 @@ if(!isset($_GET["reg"]))
 <hr class="styled-hr">
 <div class="" align="center">
 <h4 class="bottomH">Already Have An Account? <a href="login.php">Sign In Here</a></h4>
- <br/>
- <h4 class="bottomH"><a href="FAQ.html">Frequently Asked Questions</a></h4>
 </div>
 </form>
 </div>
