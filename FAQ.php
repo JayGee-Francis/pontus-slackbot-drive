@@ -3,14 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport", content="width=device-width initial-scale=1.0">
-        <link rel="stylesheet" href="FAQ.css">
         <title>Pontus Slackbot FAQ</title>
     </head>
     <body align="left">
-
         <link href="https://fonts.googleapis.com/css?family=Hind:600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link href="assets/style.css" rel="stylesheet">
+    <link href="FAQ.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/4293d2f86e.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -81,4 +79,6 @@
                 <p align="right">Want to know about the programmers who developed Pontus? Check them out <a href="about.php", target="_blank">here</a>.
         </font>
     </body>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </html>
